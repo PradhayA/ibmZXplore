@@ -35,7 +35,15 @@ Also, when asked who referred you, type out "Pradhay". Here are the steps to ear
 
 ## My Experience 🎓
 
-I've recently completed my Fundamentals and Concepts badges, and I've learned so much. It's been an incredible journey, and I'm excited to see where it takes me next. Here's what you could be getting: https://www.credly.com/badges/82d4a2d3-4ab9-44aa-bb10-c73d25828cfc/public_url.
+I've recently completed my Fundamentals and Concepts badges, and the journey has been nothing short of amazing. Diving into the world of IBM Z, I've learned so much about enterprise computing. I started with the basics, understanding the architecture and hardware of mainframes, the backbone of today's digital economy.
+
+As I progressed, I got hands-on experience with JCL (Job Control Language) and REXX, scripting languages used for job scheduling and automation on IBM Z.
+
+But it wasn't just about the technical skills. The platform also taught me about problem-solving and critical thinking. I learned how to approach complex problems, break them down, and find effective solutions. I also learned about the importance of collaboration and communication in a tech environment.
+
+The best part? All this learning was done through practical, hands-on challenges. It wasn't just theory; I was applying what I learned in real-world scenarios. This practical approach has helped me understand the concepts better and has given me confidence in my skills.
+
+And now, having earned the Fundamentals and Concepts badges, I feel ready to take on the Advanced Badge. I'm excited about the journey ahead and the new things I'm going to learn. Here's what you could be getting: https://www.credly.com/badges/82d4a2d3-4ab9-44aa-bb10-c73d25828cfc/public_url.
 
 ## Go and Sign Up 🌐
 
